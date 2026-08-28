@@ -2,4 +2,4 @@ modelo,F1 (CV 5-fold),sd CV,Accuracy (test),Precision (test),Recall (test),F1 (t
 SVM lineal,0.7434,0.0081,0.8194,0.8174,0.7462,0.7802,0.8707
 Regresion logistica,0.7412,0.0074,0.8175,0.8133,0.7462,0.7783,0.8676
 Naive Bayes multinomial,0.7391,0.0059,0.8201,0.8571,0.6972,0.769,0.8711
-Random Forest,0.7327,0.0163,0.8089,0.8081,0.7278,0.7659,0.8607
+Random Forest,0.7324,0.0161,0.8089,0.8081,0.7278,0.7659,0.8607
